@@ -2,7 +2,7 @@
 #include <string>
 #include <cstring>
 
-// Reference => freeCodeCamp.org
+// Reference => https://www.youtube.com/watch?v=8jLOx1hD3_o
 
 void max_str(const std::string& input1, const std::string input2,   // searches for the last character alphabetically
             std::string& output)
